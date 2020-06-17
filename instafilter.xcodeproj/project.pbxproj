@@ -14,6 +14,7 @@
 		D15788A2249143B3007B358E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D15788A1249143B3007B358E /* Assets.xcassets */; };
 		D15788A5249143B3007B358E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D15788A4249143B3007B358E /* Preview Assets.xcassets */; };
 		D15788A8249143B3007B358E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D15788A6249143B3007B358E /* LaunchScreen.storyboard */; };
+		D1DF86572491FC84009A3550 /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1DF86562491FC84009A3550 /* ImagePicker.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		D15788A4249143B3007B358E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		D15788A7249143B3007B358E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D15788A9249143B3007B358E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D1DF86562491FC84009A3550 /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				D1578898249143B1007B358E /* AppDelegate.swift */,
 				D157889A249143B1007B358E /* SceneDelegate.swift */,
 				D157889F249143B1007B358E /* ContentView.swift */,
+				D1DF86562491FC84009A3550 /* ImagePicker.swift */,
 				D15788A1249143B3007B358E /* Assets.xcassets */,
 				D15788A6249143B3007B358E /* LaunchScreen.storyboard */,
 				D15788A9249143B3007B358E /* Info.plist */,
@@ -151,6 +154,7 @@
 			files = (
 				D1578899249143B1007B358E /* AppDelegate.swift in Sources */,
 				D157889B249143B1007B358E /* SceneDelegate.swift in Sources */,
+				D1DF86572491FC84009A3550 /* ImagePicker.swift in Sources */,
 				D15788A0249143B1007B358E /* ContentView.swift in Sources */,
 				D157889E249143B1007B358E /* instafilter.xcdatamodeld in Sources */,
 			);
